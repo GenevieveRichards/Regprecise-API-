@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537515418259.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CC28E184",
+    "lastKnownWriteTime" : 1537931346,
+    "last_content_update" : 1537931346856,
+    "path" : "~/Documents/matrices/regPreciseAPI.R",
+    "project_path" : "regPreciseAPI.R",
+    "properties" : {
+        "cursorPosition" : "94,2",
+        "scrollLine" : "80",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
